@@ -99,6 +99,7 @@ dependencies:
   - zlib=1.2.13=h5eee18b_0
   - zstd=1.5.2=ha4553b6_0
   - pip:
+      - --find-links https://data.pyg.org/whl/torch-1.12.1+cu116.html
       - absl-py==1.4.0
       - aiohttp==3.8.4
       - aiohttp-cors==0.7.0
@@ -335,4 +336,4 @@ dependencies:
       - yarl==1.9.2
       - zict==3.0.0
       - zipp==3.15.0
-prefix: /home/worker/software/anaconda3/envs/phoregen
+prefix: phoregen
