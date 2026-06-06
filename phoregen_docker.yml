@@ -112,7 +112,7 @@ dependencies:
       - asttokens==2.2.1
       - async-timeout==4.0.2
       - attrs==23.1.0
-      - autodocktools-py3==1.5.7.post1+12.ga62a5d9
+      - autodocktools-py3 #==1.5.7.post1+12.ga62a5d9
       - backcall==0.2.0
       - beautifulsoup4==4.12.2
       - bel-resources==0.0.3
